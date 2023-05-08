@@ -100,6 +100,7 @@
 				A50BA1632A08EDCF00A15784 /* Products */,
 			);
 			sourceTree = "<group>";
+			usesTabs = 0;
 		};
 		A50BA1572A08EDCC00A15784 /* Shared */ = {
 			isa = PBXGroup;
